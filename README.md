@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nicolas Nunez Baez</h1>
-<h3 align="center">A curious Marcy Lab fellow, studying full-stack software engineering</h3>
+<h3 align="center">A curious FullStack software engineer trying to learn everything and on the road to becoming a technical consultant</h3>
 
-- 🔭 I’m currently working on **Civic Tech Project**
+- 🔭 I’m currently working on **Capstone Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **pandas**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Projects**
 
-- 🤝 I’m looking for help with **Back-End engineering**
+- 🤝 I’m looking for help with **Interview Skills**
 
-- 💬 Ask me about **Javascript,and React.**
+- 💬 Ask me about **Data Pipelines and Pandas**
 
 - 📫 How to reach me **nicolas.y.nunezbaez@gmail.com**
 
