@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Nunez Baez</h1>
-<h3 align="center">A curious FullStack software engineer trying to learn everything and on the road to becoming a technical consultant</h3>
+<h3 align="center">A curious FullStack software engineer trying to learn everything, while on the road to becoming a technical consultant</h3>
 
 - 🔭 I’m currently working on **A Data Pipeline**
 
