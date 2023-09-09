@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Nunez Baez</h1>
 <h3 align="center">A curious FullStack software engineer trying to learn everything and on the road to becoming a technical consultant</h3>
 
-- 🔭 I’m currently working on **Capstone Project**
+- 🔭 I’m currently working on **A Data Pipeline**
 
 - 🌱 I’m currently learning **pandas**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Interview Skills**
 
-- 💬 Ask me about **Data Pipelines and Pandas**
+- 💬 Ask me about **Data Engineering**
 
 - 📫 How to reach me **nicolas.y.nunezbaez@gmail.com**
 
